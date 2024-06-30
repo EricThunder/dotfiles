@@ -54,11 +54,11 @@ type = "prompt"
     revert_icon = " "
     tag_icon = " "
 
-#   [[blocks.segments]]
-#   style = "plain"
-#   foreground = "p:closer"
-#   template = ""
-#   type = "text"
+   [[blocks.segments]]
+   style = "plain"
+   foreground = "p:closer"
+   template = ""
+   type = "text"
 
 # [transient_prompt]
 #     foreground_templates = [
