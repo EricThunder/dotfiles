@@ -1,6 +1,8 @@
 "$schema" = "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json"
 final_space = true
 version = 2
+auto_upgrade = true
+shell_integration = true
 
 [palette]
 os = "#ACB0BE"
