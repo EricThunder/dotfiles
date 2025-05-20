@@ -5,11 +5,11 @@ version = 2
 shell_integration = true
 
 [palette]
-os = "#689d6a"
+os = "#ACB0BE"
 closer = "p:os"
-lavender = "#b16286"
-sunglow = "#d79921"
-blue = "#458588"
+lavender = "#BE89FF"
+sunglow = "#FECD71"
+blue = "#4FBEEA"
 
 [[blocks]]
 alignment = "left"
